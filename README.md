@@ -27,4 +27,4 @@
 
 I treat evaluation as part of the product. Every project above has tests that run without API keys, and anything that uses a model reports how well it works, including where it fails.
 
-📫 [LinkedIn](https://www.linkedin.com/in/sai-dumpala) · [ORCID](https://orcid.org/0009-0001-0260-0072) · dumpalasairamkrishnareddy@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/sai-dumpala) · [ORCID](https://orcid.org/0009-0001-0260-0072) · Sai.Dumpalaa@gmail.com
